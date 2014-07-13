@@ -1,3 +1,6 @@
+## Cellarise-Istanbul
+This package has been forked from gotwarlost/istanbul, and updates the clover report to provide reporting of total source lines, so that the report provides accurate reporting of total lines versus source code lines.
+
 ## Istanbul - a JS code coverage tool written in JS
 
 [![Build Status](https://secure.travis-ci.org/gotwarlost/istanbul.png)](http://travis-ci.org/gotwarlost/istanbul)
