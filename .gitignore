@@ -20,3 +20,4 @@ build/
 public/
 
 npm-debug.log
+atlassian-ide-plugin.xml
