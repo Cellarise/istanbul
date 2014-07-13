@@ -30,7 +30,7 @@ module.exports = function (grunt) {
       }
     }
 
-    fork(path.normalize(__dirname + './lib/cli.js'), cmdArgs)
+    fork(path.normalize(__dirname + '../lib/cli.js'), cmdArgs)
       .on('exit', function (code, signal) {
         done(code === 0 ? true : false);
       });

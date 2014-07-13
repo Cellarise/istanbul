@@ -1,6 +1,6 @@
 {
-  "name": "cellarise-istanbul",
-  "version": "0.2.0",
+  "name": "grunt-cellarise-istanbul",
+  "version": "0.3.0",
   "description": "This package has been forked from gotwarlost/istanbul, and updates the clover report to provide reporting of total source lines, so that the report provides accurate reporting of total lines versus source code lines. Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale",
   "keywords": [
     "coverage",
